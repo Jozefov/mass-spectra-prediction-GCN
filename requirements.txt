@@ -1,0 +1,9 @@
+matchms==0.18.0
+numpy==1.21.2
+pandas==2.0.0
+pickle-mixin==4.0
+rdkit==2022.03.2
+torch==1.13.1+cu1117
+torch-geometric==2.2.0
+torchvision==0.14.1+cu117
+
